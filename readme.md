@@ -15,8 +15,10 @@ So every revision has its own branch. They are in the state as I sent them to th
 - [Rev 1.1][version_11]
 - [Rev 1.3][version_13]
 - [Rev 1.4][version_14]
+- [Rev 1.5][version_15]
 
 [version_11]: https://github.com/morcibacsi/PSACANBridgeHW/tree/v1.1
 [version_13]: https://github.com/morcibacsi/PSACANBridgeHW/tree/v1.3
 [version_14]: https://github.com/morcibacsi/PSACANBridgeHW/tree/v1.4
+[version_15]: https://github.com/morcibacsi/PSAVanCanBridgeHW/tree/v1.5
 [psacanbridge]: https://github.com/morcibacsi/PSACANBridge
